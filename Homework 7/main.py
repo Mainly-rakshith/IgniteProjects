@@ -1,5 +1,6 @@
 # Name: Rakshith Jayakarthikeyan
 # Assignment: PROG1003 - HW7 - Spelling
+#testing
 
 def load_words(filename):
     word_list = []
